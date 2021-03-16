@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Content added by DEV2
+=======
+Content added by Admin
+>>>>>>> 81be989949b97dedfab8062438fa7109d27c90f8
